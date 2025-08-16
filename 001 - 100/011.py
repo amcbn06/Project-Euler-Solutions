@@ -1,6 +1,6 @@
 grid = [[]]
 
-with open(r'001 - 100\011\input.txt', 'r') as f:
+with open('001 - 100/011.txt', 'r') as f:
     grid = [[int(x) for x in line.split()] for line in f.read().split('\n')]
 
 dx = [0, 1, 1, 1]

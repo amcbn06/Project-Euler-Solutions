@@ -1,6 +1,6 @@
 dp = [[]]
 
-with open(r'001 - 100\018\input.txt', 'r') as f:
+with open('001 - 100/018.txt', 'r') as f:
     dp = [[int(x) for x in line.split()] for line in f.read().split('\n')]
 
 for i in range(1, len(dp)):

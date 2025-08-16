@@ -1,4 +1,4 @@
-names = open('001 - 100/022/names.txt').read().replace('"', '').split(',')
+names = open('001 - 100/022.txt').read().replace('"', '').split(',')
 
 names.sort()
 
