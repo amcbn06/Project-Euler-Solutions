@@ -37,6 +37,8 @@ project-euler-solutions/
 │       ├── 901.ipynb
 │       ├── 902.ipynb
 │       └── ...
+│   └── bonus/
+│       └── ...
 ├── template.ipynb
 ├── README.md
 └── LICENSE
