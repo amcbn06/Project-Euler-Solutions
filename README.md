@@ -43,6 +43,10 @@ project-euler-solutions/
 ├── README.md
 └── LICENSE
 ```
+### **Important!**
+
+- I didn't manage to solve some problems, but I commited the thought process in case I every try to solve them again; these problems are marked as `[wip] problem_id.ipynb`
+- The first 50 problems are mostly solved in python files because i decided to start this process after going through them, so don't expect to see explainations for them (they're pretty easy regardless)
 
 ---
 
