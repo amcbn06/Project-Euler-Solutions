@@ -1,5 +1,7 @@
 # Project Euler Solutions in Python (Jupyter Notebooks)
 
+![image](https://projecteuler.net/profile/amcbn.png)
+
 This repository contains solutions to problems from [Project Euler](https://projecteuler.net/), implemented in **Python** using **Jupyter Notebooks**. Each notebook includes the problem description, a detailed explanation of the solution, and the Python implementation. The goal is to provide clear, well-documented solutions that are easy to understand and reusable.
 
 ---
@@ -43,10 +45,6 @@ project-euler-solutions/
 ├── README.md
 └── LICENSE
 ```
-### **Important!**
-
-- I didn't manage to solve some problems, but I commited the thought process in case I every try to solve them again; these problems are marked as `[wip] problem_id.ipynb`
-- The first 50 problems are mostly solved in python files because i decided to start this process after going through them, so don't expect to see explainations for them (they're pretty easy regardless)
 
 ---
 
@@ -65,6 +63,12 @@ project-euler-solutions/
   - Problems are tagged with relevant topics (e.g., `math`, `number-theory`, `dynamic-programming`) for easy navigation.
 
 ---
+
+### **Important!**
+
+- I didn't manage to solve some problems, but I commited the thought process in case I every try to solve them again; these problems are marked as `[wip] problem_id.ipynb`
+- The first 50 problems are mostly solved in python files because i decided to start this process after going through them, so don't expect to see explainations for them (they're pretty easy regardless)
+- If you wish to add me on your friends list on Project Euler, my friend key is `1880912_Gjh7YRYicdk41NkAfPgAZuC3mseyi0UB`
 
 ## References
 
