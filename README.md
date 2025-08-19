@@ -1,5 +1,7 @@
 # Project Euler Solutions in Python (Jupyter Notebooks)
 
+![image](https://projecteuler.net/profile/amcbn.png)
+
 This repository contains solutions to problems from [Project Euler](https://projecteuler.net/), implemented in **Python** using **Jupyter Notebooks**. Each notebook includes the problem description, a detailed explanation of the solution, and the Python implementation. The goal is to provide clear, well-documented solutions that are easy to understand and reusable.
 
 ---
